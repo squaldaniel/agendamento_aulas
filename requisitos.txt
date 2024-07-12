@@ -1,0 +1,3 @@
+Objetivo: Sistema para agendamento de aulas individuais
+-> banco de dados
+-> subir no servidor (deploy)
